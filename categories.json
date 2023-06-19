@@ -1,0 +1,14 @@
+{
+    "category1":{
+        "name":"category1",
+        "description": "description1"
+    },
+    "category2":{
+        "name":"category2",
+        "description": "description2"
+    },
+    "category3":{
+        "name":"category3",
+        "description": "description3"
+    }
+}
