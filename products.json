@@ -8,7 +8,7 @@
       "mrpPrice": 6.99,
       "salePrice": 5.99,
       "taxSlabId": 3,
-      "foodType": 1,
+      "foodType": 0,
       "type": 0,
       "isActive": true
     },
@@ -34,7 +34,7 @@
       "mrpPrice": 8.49,
       "salePrice": 7.49,
       "taxSlabId": 3,
-      "foodType": 1,
+      "foodType": 0,
       "type": 0,
       "isActive": true
     },
@@ -47,7 +47,7 @@
       "mrpPrice": 1.29,
       "salePrice": 0.99,
       "taxSlabId": 4,
-      "foodType": null,
+      "foodType": 0,
       "type": 1,
       "isActive": true
     },
@@ -60,7 +60,7 @@
       "mrpPrice": 12.99,
       "salePrice": 10.99,
       "taxSlabId": 3,
-      "foodType": 1,
+      "foodType": 0,
       "type": 0,
       "isActive": true
     },
@@ -73,7 +73,7 @@
       "mrpPrice": 9.49,
       "salePrice": 8.99,
       "taxSlabId": 3,
-      "foodType": 1,
+      "foodType": 0,
       "type": 0,
       "isActive": true
     },

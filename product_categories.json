@@ -3,31 +3,31 @@
       "id": 1,
       "name": "Breakfast",
       "description": "Start your day with a hearty breakfast.",
-      "image": "https://example.com/breakfast.jpg"
+      "image": "https://cdn-icons-png.flaticon.com/128/8978/8978070.png"
     },
     {
       "id": 2,
       "name": "Lunch",
       "description": "Delicious lunch options for every palate.",
-      "image": "https://example.com/lunch.jpg"
+      "image": "https://cdn-icons-png.flaticon.com/128/5525/5525167.png"
     },
     {
       "id": 3,
       "name": "Beverages",
       "description": "Quench your thirst with refreshing drinks.",
-      "image": "https://example.com/beverages.jpg"
+      "image": "https://cdn-icons-png.flaticon.com/128/175/175782.png"
     },
     {
       "id": 4,
       "name": "Snacks",
       "description": "Quick bites to keep you satisfied between meals.",
-      "image": "https://example.com/snacks.jpg"
+      "image": "https://cdn-icons-png.flaticon.com/128/2450/2450351.png"
     },
     {
       "id": 5,
       "name": "Desserts",
       "description": "Indulge in delightful sweet treats.",
-      "image": "https://example.com/desserts.jpg"
+      "image": "https://cdn-icons-png.flaticon.com/128/2871/2871916.png"
     }
   ]
   
