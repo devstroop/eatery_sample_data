@@ -1,17 +1,29 @@
 [
     {
-        "id":1,
-        "name":"order3",
-        "price":300
+      "id": 1,
+      "customerId": 1,
+      "products": [1, 2, 3],
+      "timestamp": 1660473600000,
+      "subtotal": 21.47,
+      "taxTotal": 2.57,
+      "discountTotal": 1.5,
+      "convenienceFee": 0,
+      "roundOff": 0.03,
+      "finalTotal": 22.54,
+      "type": 0
     },
     {
-        "id":2,
-        "name":"order4",
-        "price":400
-    },
-    {
-        "id":3,
-        "name":"order5",
-        "price":500
+      "id": 2,
+      "customerId": 2,
+      "products": [4, 5],
+      "timestamp": 1660477200000,
+      "subtotal": 14.48,
+      "taxTotal": 1.73,
+      "discountTotal": 0,
+      "convenienceFee": 0.5,
+      "roundOff": 0.02,
+      "finalTotal": 15.73,
+      "type": 1
     }
-]
+  ]
+  
