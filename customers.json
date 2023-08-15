@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "name": "Akash Shah",
+        "phone": "7488797047",
+        "address": "New Delhi",
+        "landmark": "Near Metro Station 110018",
+        "latitude": "28.6139",
+        "longitude": "77.2090",
+        "isActive": true,
+        "outstandingAmount": 0
+    }
+]
