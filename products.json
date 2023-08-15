@@ -1,52 +1,133 @@
 [
     {
-        "name":"product1",
-        "price":100,
-        "quantity":1
+      "id": 1,
+      "name": "Masala Dosa",
+      "categoryId": 2,
+      "description": "Spicy and delicious masala dosa.",
+      "image": "https://example.com/masala_dosa.jpg",
+      "mrpPrice": 6.99,
+      "salePrice": 5.99,
+      "taxSlabId": 3,
+      "foodType": 1,
+      "type": 0,
+      "isActive": true
     },
     {
-        "name":"product2",
-        "price":200,
-        "quantity":2
+      "id": 2,
+      "name": "Coke",
+      "categoryId": 3,
+      "description": "Refreshing cola drink.",
+      "image": "https://example.com/coke.jpg",
+      "mrpPrice": 1.99,
+      "salePrice": 1.49,
+      "taxSlabId": 4,
+      "foodType": null,
+      "type": 1,
+      "isActive": true
     },
     {
-        "name":"product3",
-        "price":300,
-        "quantity":3
+      "id": 3,
+      "name": "Paneer Masala Dosa",
+      "categoryId": 2,
+      "description": "Dosa filled with spicy paneer masala.",
+      "image": "https://example.com/paneer_masala_dosa.jpg",
+      "mrpPrice": 8.49,
+      "salePrice": 7.49,
+      "taxSlabId": 3,
+      "foodType": 1,
+      "type": 0,
+      "isActive": true
     },
     {
-        "name":"product4",
-        "price":400,
-        "quantity":4
+      "id": 4,
+      "name": "Lays Chips",
+      "categoryId": 4,
+      "description": "Classic potato chips.",
+      "image": "https://example.com/lays_chips.jpg",
+      "mrpPrice": 1.29,
+      "salePrice": 0.99,
+      "taxSlabId": 4,
+      "foodType": null,
+      "type": 1,
+      "isActive": true
     },
     {
-        "name":"product5",
-        "price":500,
-        "quantity":5
+      "id": 5,
+      "name": "Pizza Margherita",
+      "categoryId": 2,
+      "description": "Traditional Italian pizza with tomatoes and basil.",
+      "image": "https://example.com/pizza_margherita.jpg",
+      "mrpPrice": 12.99,
+      "salePrice": 10.99,
+      "taxSlabId": 3,
+      "foodType": 1,
+      "type": 0,
+      "isActive": true
     },
     {
-        "name":"product6",
-        "price":600,
-        "quantity":6
+      "id": 6,
+      "name": "Burger Combo",
+      "categoryId": 2,
+      "description": "Burger with fries and a drink.",
+      "image": "https://example.com/burger_combo.jpg",
+      "mrpPrice": 9.49,
+      "salePrice": 8.99,
+      "taxSlabId": 3,
+      "foodType": 1,
+      "type": 0,
+      "isActive": true
     },
     {
-        "name":"product7",
-        "price":700,
-        "quantity":7
+      "id": 7,
+      "name": "Choco Brownie",
+      "categoryId": 5,
+      "description": "Warm chocolate brownie with ice cream.",
+      "image": "https://example.com/choco_brownie.jpg",
+      "mrpPrice": 4.99,
+      "salePrice": 4.49,
+      "taxSlabId": 4,
+      "foodType": 1,
+      "type": 0,
+      "isActive": true
     },
     {
-        "name":"product8",
-        "price":800,
-        "quantity":8
+      "id": 8,
+      "name": "Mineral Water",
+      "categoryId": 6,
+      "description": "Bottled mineral water.",
+      "image": "https://example.com/mineral_water.jpg",
+      "mrpPrice": 0.99,
+      "salePrice": 0.89,
+      "taxSlabId": 4,
+      "foodType": null,
+      "type": 1,
+      "isActive": true
     },
     {
-        "name":"product9",
-        "price":900,
-        "quantity":9
+      "id": 9,
+      "name": "Pasta Alfredo",
+      "categoryId": 2,
+      "description": "Creamy pasta with Alfredo sauce.",
+      "image": "https://example.com/pasta_alfredo.jpg",
+      "mrpPrice": 7.99,
+      "salePrice": 6.49,
+      "taxSlabId": 3,
+      "foodType": 1,
+      "type": 0,
+      "isActive": true
     },
     {
-        "name":"product10",
-        "price":1000,
-        "quantity":10
+      "id": 10,
+      "name": "Chips Ahoy Cookies",
+      "categoryId": 4,
+      "description": "Chocolate chip cookies.",
+      "image": "https://example.com/chips_ahoy_cookies.jpg",
+      "mrpPrice": 2.49,
+      "salePrice": 1.99,
+      "taxSlabId": 4,
+      "foodType": null,
+      "type": 1,
+      "isActive": true
     }
-]
+  ]
+  
