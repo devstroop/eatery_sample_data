@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": 1,
+        "name": "Dine Hall",
+        "description": "Dine hall is a place where you can eat food.",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "name": "Terrace",
+        "description": "Terrace is a place where you can eat food.",
+        "isActive": true
+    },
+    {
+        "id": 3,
+        "name": "Garden",
+        "description": "Garden is a place where you can eat food.",
+        "isActive": true
+    }
+]

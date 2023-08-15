@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "customerId": 2,
+      "customerId": 1,
       "products": [4, 5],
       "timestamp": 1660477200000,
       "subtotal": 14.48,
