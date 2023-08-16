@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "customerId": 1,
+      "customerPhone": "7488797047",
       "products": [1, 2, 3],
       "timestamp": 1660473600000,
       "subtotal": 21.47,
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "customerId": 1,
+      "customerPhone": "7488797047",
       "products": [4, 5],
       "timestamp": 1660477200000,
       "subtotal": 14.48,
